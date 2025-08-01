@@ -21,7 +21,7 @@ body {
 /* ========== 通用标题样式（PC默认） ========== */
 .content {
     text-align: center;
-    padding-top: 70vh;
+    padding-top: 50vh;
     font-weight: 500; /* 字重稍微降低 */
 }
 
