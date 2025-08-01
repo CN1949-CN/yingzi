@@ -183,5 +183,5 @@ document.addEventListener("click", function () {
 
 document.getElementById("fireworkButton").addEventListener("click", () => {
     // 跳转到烟花页面
-    window.location.href = "../fireworks/index.html"; 
+    window.location.href = "./fireworks/index.html"; 
 });
